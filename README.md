@@ -6,7 +6,8 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshyatripathi)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lakshya1410)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/lakshyatripathi)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/lakshytripathi/)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/is_lakshy)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshyatripathiconnect@gmail.com)
   
 </div>
@@ -127,7 +128,7 @@ Full-stack platform featuring AI mock interviews, resume-JD matching, live job s
 
 <div align="center">
   
-  ![LeetCode Stats](https://leetcode.card.workers.dev/lakshyatripathi?theme=dark&font=baloo&extension=null)
+  ![LeetCode Stats](https://leetcode.card.workers.dev/lakshytripathi?theme=dark&font=baloo&extension=null)
   
 </div>
 
