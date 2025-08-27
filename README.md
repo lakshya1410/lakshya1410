@@ -13,28 +13,6 @@
 
 ## 🚀 About Me
 
-```python
-class LakshyaTripathi:
-    def __init__(self):
-        self.name = "Lakshya Tripathi"
-        self.role = "AI/ML Student & Developer"
-        self.location = "Greater Noida, India"
-        self.education = "B.Tech CSE (AI Specialization)"
-        self.university = "G.L. Bajaj Institute of Technology"
-        self.graduation_year = 2027
-        
-    def current_focus(self):
-        return [
-            "Building AI-powered applications",
-            "Exploring Generative AI & LLMs",
-            "Contributing to open source",
-            "Solving complex problems with code"
-        ]
-        
-    def life_motto(self):
-        return "Turning ideas into intelligent solutions! 🧠✨"
-```
-
 ## 🎯 What I'm Working On
 
 🔭 **Currently Building:** HireWise - An AI-powered job preparation platform with mock interviews and smart resume matching
@@ -74,82 +52,6 @@ class LakshyaTripathi:
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 🏆 Featured Projects
-
-<div align="center">
-
-### 🤖 Gmail MCP Server
-**AI-Powered Email Management System**
-
-[![GitHub](https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lakshya1410)
-
-Built an intelligent email categorization system that classifies emails into Important, Ignorable, and Deletable using Claude AI via Model Context Protocol (MCP).
-
-`Python` `Claude AI` `Gmail API` `MCP` `OAuth2`
-
----
-
-### 📊 JDmatcher
-**Intelligent Resume-Job Description Analyzer**
-
-[![GitHub](https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lakshya1410/JDmatcher)
-
-Smart job-matching tool powered by LLaMA 3.3 70B that provides match percentages, identifies skill gaps, and generates actionable improvement suggestions.
-
-`Python` `Streamlit` `Groq LLaMA 3.3` `NLP` `AI Analysis`
-
----
-
-### 🎯 HireWise *(In Development)*
-**Complete AI-Driven Job Preparation Platform**
-
-[![GitHub](https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lakshya1410/HireWise)
-
-Full-stack platform featuring AI mock interviews, resume-JD matching, live job search integration, and personalized career insights.
-
-`Python` `Flask` `OpenAI API` `LinkedIn API` `Naukri API` `Real-time AI`
-
-</div>
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshya1410&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshya1410&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshya1410&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  
-</div>
-
-## 🎯 LeetCode Journey
-
-<div align="center">
-  
-  ![LeetCode Stats](https://leetcode.card.workers.dev/lakshytripathi?theme=dark&font=baloo&extension=null)
-  
-</div>
-
-## 🌟 What Makes Me Unique
-
-```yaml
-mindset:
-  - "Every problem is an opportunity to innovate"
-  - "AI should augment human capabilities, not replace them"
-  - "Clean code is not just working code, it's maintainable code"
-
-approach:
-  problem_solving: "Break it down, build it up, optimize it"
-  learning: "Learn by doing, teach by sharing"
-  collaboration: "Two minds are better than one AI model"
-
-interests:
-  - Generative AI Applications
-  - Human-Computer Interaction
-  - Ethical AI Development
-  - Open Source Contribution
-```
 
 ## 💬 Let's Connect!
 
@@ -163,12 +65,9 @@ I'm always excited to collaborate on interesting projects, especially those invo
   
   **"Building the future, one algorithm at a time!"** 🚀
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=lakshya1410&color=blueviolet&style=for-the-badge)
+
   
 </div>
 
 ---
 
-<div align="center">
-  <i>⭐️ From [lakshya1410](https://github.com/lakshya1410) with ❤️ and lots of ☕</i>
-</div>
