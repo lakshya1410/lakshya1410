@@ -23,7 +23,7 @@ I enjoy creating **end-to-end AI products** — from data ingestion and model de
 ## 💼 Experience
 
 ### **AI Engineering Intern — BotWot**  
-*Oct 2025 – Present*
+*Oct 2025 – Jan 2026*
 
 - Built an **Outlook Add-in** for email summarization using **Gemini API** with **MongoDB-based role access control**.
 - Developed an **AI call analysis system** to classify real vs unreal leads using **OpenAI** and **ElevenLabs**.
