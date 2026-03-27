@@ -15,22 +15,7 @@
 
 </div>
 
----
 
-## ⚡ About Me
-
-```python
-lakshya = {
-    "education":   "CS (AI) @ GL Bajaj Institute of Technology & Management",
-    "location":    "Dādri, UP 🇮🇳",
-    "focus":       ["LLMs", "RAG Pipelines", "MCP Systems", "Agentic AI"],
-    "currently":   "Building AI-powered interview prep & lead intelligence platforms",
-    "open_to":     ["AI/ML internships", "LLM projects", "Open-source collab"],
-    "contact":     "lakshyatripathiconnect@gmail.com"
-}
-```
-
----
 
 ## 💼 Experience
 
