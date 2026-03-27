@@ -105,18 +105,7 @@ B2B lead gen with ICP-based discovery, 8+ scoring parameters & automated contact
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
 
-## 🏆 Highlights
-
-| | Achievement |
-|---|---|
-| 🏅 | Amazon ML Challenge 2025 — **Rank 3,412 / 83,000+** |
-| 🏅 | HackMait 6.0 — **Top 28 Teams** |
-| 💻 | **250+ LeetCode problems** solved in Java |
-| 📜 | Kaggle Python · Coursera · Google Cloud (Vertex AI) |
-
----
 
 ## 📊 GitHub Stats
 
